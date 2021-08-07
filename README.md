@@ -1,0 +1,1 @@
+# mangoquotes-android
